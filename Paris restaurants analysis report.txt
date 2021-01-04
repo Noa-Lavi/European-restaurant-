@@ -1,0 +1,21 @@
+Paris restaurants analysis report
+The SN scale of Paris (number of Population / resturants density) is: 25027.724577092988.
+The rate of Paris is 13 in the SN scale (from 15 cities).
+France precantage expenses on resturants in 2018 is: 5.9.
+The most common cuisine of resturants in Paris is: French.
+The average rate of resturants that contains the common cuisine in Paris is: 3.974305410486735.
+The most commom price of resturants that contains the common cuisine in Paris is: medium.
+The precentage number of friendly resturants (restuants that contains friendly kitchens\ city's resturant's number) in Paris is: 43.46514384225838.
+*friendly kitchen- kitchen that contains vegan, vegetrian and glutten free options.
+
+SUMERRY:
+ Dear customer,
+ Our recommendations about your future resturant based on the information are:
+-French is the best kitchen for your new resturant in Paris.
+-The resturnt pricing need to be medium.
+Please consider the following parameters:
+Paris's SN scale rank is low.
+The precentage of friendly resturants in Paris is low.
+The counrty precantage expenses on resturants in 2018 is below the average in europe countries (7%)
+Thank you for trusting us.
+We wish you good luck with your new resturant!
